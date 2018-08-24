@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLake",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -36,7 +36,8 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
-    "scroll-to-top": "on"
+    "scroll-to-top": "on",
+    "snow": ""
   },
   "pages": {
     "index.html": {
@@ -2856,11 +2857,11 @@
         {
           "_params": {
             "blockTitle": "",
-            "HTMLCode": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1HArFPEnq-d9fmCaiiY5AyyaYFFwm5ZEi\" width=\"1200\" height=\"600\"></iframe>\n",
+            "HTMLCode": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1HArFPEnq-d9fmCaiiY5AyyaYFFwm5ZEi\" width=\"1130\" height=\"700\"></iframe>",
             "extEdit": true,
             "paddingTop": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rachels-1000x7143.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rachels-1000x7141.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#0079ff",
@@ -2869,7 +2870,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1HArFPEnq-d9fmCaiiY5AyyaYFFwm5ZEi\" width=\"1200\" height=\"600\"></iframe>\n",
+          "HTMLCode": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1HArFPEnq-d9fmCaiiY5AyyaYFFwm5ZEi\" width=\"1130\" height=\"700\"></iframe>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
