@@ -2860,7 +2860,7 @@
             "extEdit": true,
             "paddingTop": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rachels-1000x7142.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rachels-1000x7143.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#0079ff",
